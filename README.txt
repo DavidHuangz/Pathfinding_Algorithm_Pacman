@@ -1,4 +1,4 @@
-This project consists of using two algorithms which are BFS and A* where they provide the pathfinding functionalities to the pacman. 
+This project consists of using two algorithms which are BFS and A* where they provide the pathfinding functionalities for the pacman. 
 
 - To setup, read the Setup_Guide.
 
